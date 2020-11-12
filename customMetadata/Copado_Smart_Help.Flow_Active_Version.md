@@ -8,7 +8,7 @@
     </values>
     <values>
         <field>Help_Text__c</field>
-        <value xsi:type="xsd:string">If deploying the active version of the Flow, remember to also select the FlowDefinition component that has the same name as the selected Flow.</value>
+        <value xsi:type="xsd:string">If deploying the active version of the Flow, remember to also select the FlowDefinition component that has the same name as the selected Flow. Test Version</value>
     </values>
     <values>
         <field>Triggering_Action__c</field>
